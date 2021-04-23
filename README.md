@@ -1,6 +1,16 @@
 # Rockstar
 
-**TODO: Add description**
+So What's this?
+
+As you could imagine, It's rockstar's repo([link](https://github.com/avinassh/rockstar))
+
+So Why did I use that?
+
+Maybe no why or want to hide myself
+
+Anyway, who care?
+
+---
 
 ## Installation
 
