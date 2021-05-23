@@ -10,6 +10,10 @@ Maybe no why or want to hide myself
 
 Anyway, who care?
 
+So you want to see Elixir's version?
+
+I just could tell you wait :)
+
 ---
 
 ## Installation
